@@ -1,0 +1,15 @@
+E:\dotnet\TemaCurs1\bin\Debug\net6.0\TemaCurs1.exe
+E:\dotnet\TemaCurs1\bin\Debug\net6.0\TemaCurs1.deps.json
+E:\dotnet\TemaCurs1\bin\Debug\net6.0\TemaCurs1.runtimeconfig.json
+E:\dotnet\TemaCurs1\bin\Debug\net6.0\TemaCurs1.dll
+E:\dotnet\TemaCurs1\bin\Debug\net6.0\TemaCurs1.pdb
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.csproj.AssemblyReference.cache
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.AssemblyInfoInputs.cache
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.AssemblyInfo.cs
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.csproj.CoreCompileInputs.cache
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.dll
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\refint\TemaCurs1.dll
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.pdb
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\TemaCurs1.genruntimeconfig.cache
+E:\dotnet\TemaCurs1\obj\Debug\net6.0\ref\TemaCurs1.dll
