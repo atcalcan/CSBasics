@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\dotnet\\TemaCurs1\\TemaCurs1.csproj": {}
+    "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_1\\TemaCurs1.csproj": {}
   },
   "projects": {
-    "E:\\dotnet\\TemaCurs1\\TemaCurs1.csproj": {
+    "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_1\\TemaCurs1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\dotnet\\TemaCurs1\\TemaCurs1.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_1\\TemaCurs1.csproj",
         "projectName": "TemaCurs1",
-        "projectPath": "E:\\dotnet\\TemaCurs1\\TemaCurs1.csproj",
+        "projectPath": "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_1\\TemaCurs1.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "E:\\dotnet\\TemaCurs1\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
