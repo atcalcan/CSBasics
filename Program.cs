@@ -26,7 +26,8 @@
             }
         }
     }
-    Console.WriteLine("Din pacate nu ti-au mai ramas incercari.\n");
+    if (attempts == 0)
+    { Console.WriteLine("Din pacate nu ti-au mai ramas incercari.\n"); }
 }
 
 bool ex1_add(string email, string password)
@@ -141,7 +142,7 @@ int ex4_add(string[] args)
         foreach (char c in c1)
         {
             c2[i] = c;
-            i++;            
+            i++;
         }
         Array.Reverse<char>(c2);
         string string1 = new string(c1);
@@ -155,8 +156,6 @@ int ex4_add(string[] args)
 }
 
 
-
-// See https://aka.ms/new-console-template for more information
 while (true)
 {
     Console.WriteLine("Ce exercitiu ai vrea sa vezi?\n1.\tExercitiul 1;\n2.\tExercitiul 2;\n3.\tExercitiul 3;\n4.\tExercitiul 4;");
